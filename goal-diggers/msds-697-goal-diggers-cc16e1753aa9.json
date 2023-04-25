@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "msds-697-goal-diggers",
+  "private_key_id": "cc16e1753aa93ad33a13034e0fef040789914a33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxYR15vd5EMtGb\nvaQDGzUTfZyK0OwB+Hcpvd9BodDKMqNfZiQJBTteBxZbkX/W6uynTiu+lHD1+MnQ\nGouMQCQ86PGoYf1GYAa17SSG05H09XeKpO9qeSIM/viYMAfhyvQ0bwEZoS4XMlHi\nrYq+SqKIkabFHnr8y4kgHcQyH2ryXzb64oBFsxLRIUqfZj7YVrQWoUeTrlVKIQfR\nrkbmoY9Qk8lxRiCGUQkKUcBhLW+tqrmEwQUKQXqjpv4gicSDoq2I1lGtH8Nv/OxL\nPEvLMj9H5VvPQnPSYHJgoOXzRFVO+ssQ01a8Jz0KWalS5gKRZkKX6Yg7wYl9tk1D\nDMkIY/idAgMBAAECggEAAK7zmp75JsEdXqC964ckzrTqr/w7FIzdBKunGw0hDU5h\no8H0fJZpEqUrWGH4oJ7aF5DtCThwMPpq6KLZi8pJeXSaTcBG5gkDrZrCy8Qv6UYy\n1jVpeLsLvwoSch+pQBz0kOkmk280CsHWX+20PaRy+Ny6zEKgTa4JErcapOjLFDD5\nE/SzsUxdTF9M7f8QqJV4b3+mo3DB7g+n0VXV300xFwiA916oi5PkFBCd/dVnL/qa\nAQLz3AjfICLeVWaEtTVJ3cYFh7/AzMN9nA0qX38xfsdZKXAtEtvCcRPj5QuesVgj\nBa2SG/sSt94ikMEWBlstmvnwyvpIBqd78cxWduxnIQKBgQDfC+2qRxo8ycnQg5q6\n076WXGFyU5dIIe4cvRV6zXZqBPgO0oJR+D23HLD4RMreG31agbrHCYdQ7NnLWugw\nTH9YrrgBoHo+UA/TalBiy8ULwDhBui181cNmkwfArUGYaU7j3BT56yXxWeYiaipX\nWB7gLlZ5HV+LHPoqVH/h5sCuMQKBgQDLlfWzBB2NzfVVTwAUV5meAyjh1LnoVbxr\nV90Fv+JB9llSUheJX4CoqHy7fM8HzjV/2P5DFcizl2C+60tKexIFM3OtDN29YITM\nShWOF7EjVifW4IaBWAe0ROW4WUJepPUJW67dBIbscj9hgi3zxf/yOV6SfyGcGT9U\n1Ors8yJ6LQKBgDb92+TljuR549YS/G0fk5fCwwvK7DuOkgRn4gna6l0NSJNu9056\nY8znuAIeA95q7KcJ4SD9im07WB85FJID6knVGezcwgbm+l/nkFYrYzOYesZJvrlO\ngtShX4HztX58SEUJl+pePYaZ4ZGOl03dng8rnYpS4aGMzWjuWHE70TmhAoGAT9zy\n9pfdtBwgaqfEAzbeF0NsDTMy/rZrZLyiArhkXLX0EjwL6aLiSMdXrwDmAkzdZdrM\n26o3AmSW2i5Zac1fo1Sswyzx63Fqhu1lCUm3/oG0vTF08laDJy+D4k55n8EcMuCZ\ndzBocWbcADdeKWv53J6uv89Jcv/gfTnNMsiqNL0CgYBU+lF3GNqfAZwX++aIfAJF\nQjcsp1STnvHvYKHDhTrOrizG/5b//4OlRmvcnwhZLV/ZBuIEgC3LnLV/wG4/9Boz\nEzQBVELXvJi1hp+8FLMyYsMb7duWRQu40muKt5w+0y84ZWGW89sTKb9WISsPvsel\n/k8thKuwwC2KZSwTmBm71w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow@msds-697-goal-diggers.iam.gserviceaccount.com",
+  "client_id": "113915044729017312906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow%40msds-697-goal-diggers.iam.gserviceaccount.com"
+}
